@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Collaborators
 
 - [Gabriela Krusta](https://github.com/gkrusta)
-- [Davyd Bredykhin](https://github.com/BredyByte)
+- [Pablo Lucena González](https://github.com/PaLucena)
 - [Enrique Algar Ceular](https://github.com/ealgar-c)
 - [Pablo Vilchez Rodriguez](https://github.com/pablovilchez)
 
