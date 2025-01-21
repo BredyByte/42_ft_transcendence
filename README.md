@@ -1,5 +1,7 @@
 # ft_transcendence
 
+> This repository contains 'ft_transcendence' project, which is part of the École 43 curriculum.
+
 ft_transcendence is a full-stack web application built for the 42 programming school curriculum. It features a multiplayer online game with real-time chat, tournament tracking using blockchain, AI opponents, and user management. The application is designed using a microservices architecture, entirely containerized with Docker for easy deployment and scalability.
 
 ## Table of Contents
